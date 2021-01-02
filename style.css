@@ -1,0 +1,107 @@
+body 
+	{
+		background-color: khaki;
+	}
+
+h1
+	{
+		background-color: gold;
+	font-family: 'bungee outline', cursive;
+	font-size: 30px;
+	color: red;
+	border: solid;
+	border-color: #eedfe5;
+	border-radius: 50px;
+	}
+h2
+	{
+		background-color: lavender;
+		font-size: 20px;
+		color: indigo;
+		text-align: center;
+		border: solid;
+		border-color: lavender;
+		border-radius: 40px;
+	}
+h3
+	{
+		background-color: gold;
+		font-size: 20px;
+		color: darkred;
+		text-align: center;
+		border: solid;
+		border-color: #eedfe5;
+		border-radius: 40px;
+	}
+p
+	{
+		background-color: #ffa600;
+		font-family: 'langgar', cursive;
+		color: indianred;
+		text-align: center;
+		border: solid;
+		border-color: black;
+		border-radius: 40px;
+	}
+a:link, a:visited
+	{
+		background-color: black;
+		color: blue;
+		text-align: center;
+		text-decoration: none;
+		display: inline-black;
+		border-radius: 25px;
+		padding: 15px;
+	}
+
+a:hover, a:acytive
+	{
+		background-color: blue;
+		color: black;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
